@@ -1,4 +1,7 @@
 # robot-hand
+
+<img src="robot_hand.JPG" width="480"/>
+
 software: 
 - Python 3.12.7
 - Arduino: 2.3.4
