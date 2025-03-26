@@ -9,7 +9,7 @@ software:
 hardware:
 - Arduino Uno
 - 6 MG90S 9g servos
-- popsicle sticks, straws, floss, hotglue
+- popsicle sticks, straws, floss, hotglue, duct tape (not necessary)
 
 reproducing:
 1. `pip install -r requirements.txt`
